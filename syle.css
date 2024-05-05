@@ -19,3 +19,5 @@ h1 {
 
 /* Applies to the element with <... id="someid"> specified. */
 #someid { color: green; }
+#sample:wq!
+
